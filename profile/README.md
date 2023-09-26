@@ -1,3 +1,3 @@
 # Winter ❄️
 
-Winter is a small digital agency building websites and apps using things like Next.js, TypeScript, Firebase, WordPress, and more.
+Winter is a digital agency building highly scalable and modern websites, e-commerce solutions and apps using techonologies like Next.js, Sanity, Vercel, Shopify, and more.
