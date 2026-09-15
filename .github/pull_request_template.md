@@ -4,7 +4,7 @@
 
 <!-- One to three sentences. The change as a reader outside the team would understand it. -->
 
-**Task:** <!-- Asana task, GitHub issue or Zendesk ticket as a link. Delete this line if there is none. -->
+**Task:** <!-- For a GitHub issue, use a closing keyword so GitHub links and closes it: "Closes #12", "Fixes #12", or "Refs #12" when this PR does not finish it. For Asana or Zendesk, a plain link. Delete this line if there is no task. -->
 
 ## Why
 
