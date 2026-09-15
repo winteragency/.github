@@ -1,4 +1,4 @@
-<!-- As short as the change allows, never more than 400 words. Use only the headings below, in this order. No sub-headings, no diff walkthrough, no session narration, no footers. -->
+<!-- Written in English. As short as the change allows, never more than 400 words. Use only the headings below, in this order. No sub-headings, no diff walkthrough, no session narration, no footers. -->
 
 ## What
 
